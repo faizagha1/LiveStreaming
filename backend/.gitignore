@@ -1,3 +1,8 @@
-.idea
-.gradle
-gradle
+# IDE files (IntelliJ IDEA)
+.idea/
+*.iml
+.DS_Store
+
+# Gradle generated files and cache
+.gradle/
+/build/
